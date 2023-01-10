@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">katkutm 0</string>
+    <string name="welcome_to_katkut_0">Welcome to X 0.</string>
+    <string name="grid">Our Main Grid</string>
+    <string name="todo">TODO</string>
+    <string name="o_turn">O\'s Turn - Tap to play!</string>
+    <string name="x_turn">X\'s Turn - Tap to play!</string>
+    <string name="restart">Restart</string>
+    <string name="x_tern_tab_to_play">X tern Tab to Play</string>
+
+</resources>
